@@ -27,7 +27,7 @@ const Layout = () => {
    
  .pauseFor(1000)
  .deleteAll()
- .typeString("4D it is Truth")
+ .typeString("4D It Is Truth")
  .start();
  }}
  />
