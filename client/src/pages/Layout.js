@@ -23,11 +23,11 @@ const Layout = () => {
 
  typewriter
   
- .typeString("I Am God Of Death")
+ .typeString("I Am God Of 4D")
    
  .pauseFor(1000)
  .deleteAll()
- .typeString("Death it is Truth")
+ .typeString("4D it is Truth")
  .start();
  }}
  />
